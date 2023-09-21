@@ -29,6 +29,7 @@ Connect with us on social media:
 - [Instagram](https://instagram.com/the_lacspace)
 - [LinkedIn](https://linkedin.com/company/lacspace)
 - [Facebook](https://facebook.com/lacspacetechnologies)
+- [YouTube](https://youtube.com/@lacspaceofficial)
 
 ## Explore Our Projects
 
