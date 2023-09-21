@@ -5,7 +5,7 @@ Welcome to the Lacspace GitHub repository. Lacspace is a dynamic IT solutions pr
 ## About Us
 
 - **Founder**: Eallen Karna
-- **Website**: [www.lacspace.com](https://www.lacspace.com)
+- **Website**: [Lacspace](https://www.lacspace.com)
 - **Blog**: [Lacspace Blog](https://github.com/lacspace/blogs/wiki)
 
 ## Lacspace Services
