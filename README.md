@@ -33,6 +33,6 @@ Connect with us on social media:
 ## Explore Our Projects
 
 - [Growth Securities: Stock Broker Website](https://growthsec.com)
-- [DMKC Cables: Wire Manufacturing Company Website](https://dmkcables.com)
+- [DMK Cables: Wire Manufacturing Company Website](https://dmkcables.com)
 
 Thank you for visiting Lacspace on GitHub. Choose Lacspace for innovation, expertise, and creativity in the digital world.
