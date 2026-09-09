@@ -3,10 +3,14 @@
 <div align="center">
 
 <a href="https://lacspace.com">
-  <img alt="Lacspace Wiki" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,100:9333EA&height=210&section=header&text=Lacspace%20Wiki&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=The%20knowledge%20hub%20%E2%80%94%20company%2C%20products%2C%20platform%20%26%20brand&descAlignY=62&descSize=16" width="100%"/>
+  <img alt="Lacspace" src="./.github/assets/lacspace-mark.svg" width="128" height="128"/>
 </a>
 
-**Think · Innovate · Execute**
+# Lacspace Wiki
+
+**The knowledge hub — company, products, platform &amp; brand**
+
+_Think · Innovate · Execute_
 
 [![Website](https://img.shields.io/badge/lacspace.com-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lacspace.com)
 [![Developers](https://img.shields.io/badge/Developer%20Platform-4d9fff?style=for-the-badge&logo=npm&logoColor=white)](https://developer.lacspace.com)
@@ -154,7 +158,7 @@ The Lacspace mark is a neural head-profile — a network that _thinks_. Full bra
 [![YouTube](https://img.shields.io/badge/YouTube-@officiallacspace-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@officiallacspace)
 [![Email](https://img.shields.io/badge/hello@lacspace.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@lacspace.com)
 
-<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:6C2BD9&height=120&section=footer" width="100%"/>
+<br/>
 
 <sub>© Lacspace · Think · Innovate · Execute</sub>
 
